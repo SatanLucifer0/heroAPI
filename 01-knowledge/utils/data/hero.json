@@ -1,0 +1,19 @@
+[{
+  "id": 1,
+  "name": "罗伯特",
+  "skill": "飞起来",
+  "icon": "/imgs/盖伦.png",
+  "isDelete": false
+}, {
+  "id": 2,
+  "name": "盖伦",
+  "skill": "大保健",
+  "icon": "gailun.png",
+  "isDelete": false
+}, {
+  "id": 3,
+  "name": "提莫1",
+  "skill": "种蘑菇1",
+  "icon": "timo1.png",
+  "isDelete": true
+}]
